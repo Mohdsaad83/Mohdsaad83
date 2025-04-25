@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohdsaad83
-- 👀 I’m interested in ... learn coding 
+- 👀 I’m interested in ... learning coding 
 - 🌱 I’m currently learning ... software engineering 
 - 💞️ I’m looking to collaborate on ... new coding 
 - 📫 How to reach me ... @slack Bosaad 
